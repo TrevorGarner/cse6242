@@ -1,0 +1,82 @@
+,Beat,NEIGHBORHO,Unnamed: 0,X,beat,Crime_Rate,Neighborhood,events,POP,URL,pop,white,black,asian,income,true_crime,events_count,predicted
+0,101,"Atlanta University Center, The Villages at Castleberry Hill",1,7,101,87,Atlanta University Center,3,6729,http://documents.atlantaregional.com/AtlantaProfiles/T02.pdf,6729,0.5,94.2,0.2,27430,6,0,13.01946608
+1,102,Vine City,2,59,102,436,Vine City,6,2818,http://documents.atlantaregional.com/AtlantaProfiles/L01.pdf,2818,2.2,92.7,0.3,24610,18,1,12.43681074
+2,103,"Berkeley Park, Blandtown, Hills Park",3,13,103,181,Blandtown,7,3089,http://documents.atlantaregional.com/AtlantaProfiles/D03.pdf,3089,58.7,23.9,7.3,64278,22,0,13.91870195
+3,104,"Ashview Heights, Harris Chiles, Just Us",4,5,104,121,Ashview Heights,1,2072,http://documents.atlantaregional.com/AtlantaProfiles/T01.pdf,2072,1.6,95.5,0,18172,8,0,10.35580154
+4,105,"Hunter Hills, Mozley Park",5,38,105,109,Hunter Hills,1,3836,http://documents.atlantaregional.com/AtlantaProfiles/K01.pdf,3836,1.5,96.2,0.2,24607,7,0,10.96114205
+5,106,"Bankhead, Washington Park",6,10,106,102,Bankhead,3,2924,http://documents.atlantaregional.com/AtlantaProfiles/K02.pdf,2924,2.7,94.2,0.1,19650,9,0,11.0138778
+6,107,Grove Park,7,35,107,180,Grove Park,0,5534,http://documents.atlantaregional.com/AtlantaProfiles/J02.pdf,5534,1.9,95.4,0.1,23902,14,0,12.62798379
+7,108,"Dixie Hills, Penelope Neighbors, West Lake",8,26,108,95,Dixie Hills,0,3625,http://documents.atlantaregional.com/AtlantaProfiles/J03.pdf,3625,1.1,96.6,0,23719,7,0,10.84263573
+8,109,"Center Hill, Harvel Homes Community",9,23,109,131,Center Hill,0,2730,http://documents.atlantaregional.com/AtlantaProfiles/J01.pdf,2730,1.4,95.8,0.2,27026,10,0,9.791004458
+9,110,Grove Park,7,35,107,180,Grove Park,0,5534,http://documents.atlantaregional.com/AtlantaProfiles/J02.pdf,5534,1.9,95.4,0.1,23902,14,0,12.62798379
+10,111,"Adamsville, Oakcliff",10,2,111,182,Adamsville,1,2296,http://documents.atlantaregional.com/AtlantaProfiles/H02.pdf,2296,1,89.5,0.2,18306,6,0,10.43264945
+11,112,Collier Heights,11,25,112,160,Collier Heights,0,5681,http://documents.atlantaregional.com/AtlantaProfiles/I04.pdf,5681,0.7,96.5,0.1,29048,12,0,11.83689423
+12,113,"Almond Park, Carey Park",12,3,113,52,Carey Park,1,3067,http://documents.atlantaregional.com/AtlantaProfiles/G02.pdf,3067,1,96.3,0.1,17468,10,0,11.16564358
+13,114,"Bankhead Courts, Bankhead/Bolton, Carroll Heights, Fairburn Heights, Old Gordon",,,,,,,,,,,,,,,0,0
+14,201,"Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek",13,40,202,42,West Paces Ferry/Northside,2,4207,http://documents.atlantaregional.com/AtlantaProfiles/A02.pdf,4207,91,2.3,3.3,193437,8,0,5.163396508
+15,202,"Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek",13,40,202,42,West Paces Ferry/Northside,2,4207,http://documents.atlantaregional.com/AtlantaProfiles/A02.pdf,4207,91,2.3,3.3,193437,8,0,5.163396508
+16,203,"Berkeley Park, Blandtown, Hills Park",3,13,103,181,Blandtown,7,3089,http://documents.atlantaregional.com/AtlantaProfiles/D03.pdf,3089,58.7,23.9,7.3,64278,22,0,13.91870195
+17,204,Underwood Hills,14,58,204,219,Underwood Hills,0,2287,http://documents.atlantaregional.com/AtlantaProfiles/D02.pdf,2287,72.3,13.7,5.5,63260,16,0,15.8723816
+18,205,"Channing Valley, Memorial Park, Springlake, Wildwood (NPU-C)",15,24,205,118,Wildwood (NPU-C),1,3757,http://documents.atlantaregional.com/AtlantaProfiles/C06.pdf,3757,86.7,5.3,4,125221,8,0,10.43104512
+19,206,"Buckhead Village, Peachtree Park",16,16,206,212,Buckhead Village,10,2920,http://documents.atlantaregional.com/AtlantaProfiles/B07.pdf,2920,77.4,11.1,3.1,57426,20,0,19.06246563
+20,207,"Atlantic Station, Loring Heights",17,8,207,136,Loring Heights,11,4167,http://documents.atlantaregional.com/AtlantaProfiles/E04.pdf,4167,42.3,32.6,17.6,42898,13,0,15.58578875
+21,208,North Buckhead,18,48,208,327,North Buckhead,4,8332,http://documents.atlantaregional.com/AtlantaProfiles/B04.pdf,8332,78.9,8.5,5.3,107979,23,0,16.23701942
+22,209,North Buckhead,18,48,208,327,North Buckhead,4,8332,http://documents.atlantaregional.com/AtlantaProfiles/B04.pdf,8332,78.9,8.5,5.3,107979,23,0,16.23701942
+23,210,Morningside/Lenox Park,21,47,213,44,Morningside/Lenox Park,0,8307,http://documents.atlantaregional.com/AtlantaProfiles/F04.pdf,8307,85.2,5.1,2.4,113073,0,0,16.60142124
+24,211,Lindbergh/Morosgo,19,43,211,589,Lindbergh/Morosgo,1,4604,http://documents.atlantaregional.com/AtlantaProfiles/B11.pdf,4604,34.4,24.9,9.5,53503,47,0,12.82409531
+25,212,Lindridge/Martin Manor,20,44,212,204,Lindridge/Martin Manor,2,3914,http://documents.atlantaregional.com/AtlantaProfiles/F02.pdf,3914,42.2,18.9,5.7,46805,16,0,14.59206521
+26,213,Morningside/Lenox Park,21,47,213,44,Morningside/Lenox Park,0,8307,http://documents.atlantaregional.com/AtlantaProfiles/F04.pdf,8307,85.2,5.1,2.4,113073,0,0,16.60142124
+27,301,"Adair Park, Pittsburgh",22,0,301,137,Adair Park,3,4880,http://documents.atlantaregional.com/AtlantaProfiles/V02.pdf,4880,4.1,90.6,1.9,19386,10,1,15.8334338
+28,302,"Adair Park, Pittsburgh",22,0,301,137,Adair Park,3,4880,http://documents.atlantaregional.com/AtlantaProfiles/V02.pdf,4880,4.1,90.6,1.9,19386,10,1,15.8334338
+29,303,Mechanicsville,23,45,303,327,Mechanicsville,11,3786,http://documents.atlantaregional.com/AtlantaProfiles/V04.pdf,3786,2.1,94.9,0.3,19121,29,0,11.73273956
+30,304,Peoplestown,24,50,304,135,Peoplestown,0,2658,http://documents.atlantaregional.com/AtlantaProfiles/V03.pdf,2658,8.5,84.1,0.8,17897,13,0,11.89665472
+31,305,"South Atlanta, The Villages at Carver",25,53,305,101,The Villages at Carver,0,2808,http://documents.atlantaregional.com/AtlantaProfiles/Y03.pdf,2808,2.2,95,0.1,18266,11,0,11.02207911
+32,306,Sylvan Hills,26,55,306,329,Sylvan Hills,2,4632,http://documents.atlantaregional.com/AtlantaProfiles/X04.pdf,4632,10,85.4,0.5,26506,19,0,12.74034214
+33,307,Lakewood Heights,27,42,307,232,Lakewood Heights,0,2157,http://documents.atlantaregional.com/AtlantaProfiles/Y04.pdf,2157,10.5,85.3,0.3,22584,20,0,11.13824043
+34,308,Thomasville Heights,28,57,308,139,Thomasville Heights,0,2851,http://documents.atlantaregional.com/AtlantaProfiles/Z02.pdf,2851,0.5,97.8,0.2,12510,5,0,11.56109499
+35,309,Perkerson,29,51,309,228,Perkerson,0,2416,http://documents.atlantaregional.com/AtlantaProfiles/X02.pdf,2416,8.7,76.9,0.7,19763,8,0,11.46080224
+36,310,"Browns Mill Park, Polar Rock, Swallow Circle/Baywood",30,15,310,105,Browns Mill Park,0,3837,http://documents.atlantaregional.com/AtlantaProfiles/Z04.pdf,3837,3.9,89.8,0.1,34712,6,0,10.06003914
+37,311,Hammond Park,31,36,311,152,Hammond Park,0,2702,http://documents.atlantaregional.com/AtlantaProfiles/X03.pdf,2702,5.5,82.8,1.5,18247,9,0,11.42495024
+38,312,"Blair Villa/Poole Creek, Glenrose Heights, Orchard Knob, Rosedale Heights",32,14,312,143,Glenrose Heights,4,5972,http://documents.atlantaregional.com/AtlantaProfiles/Z03.pdf,5972,1,94.3,0.4,23997,8,0,12.88329822
+39,313,South River Gardens,33,54,313,118,South River Gardens,16,2255,http://documents.atlantaregional.com/AtlantaProfiles/Z05.pdf,2255,1.6,94.2,0.1,28569,8,0,9.302907267
+40,401,West End,34,60,401,362,West End,4,4341,http://documents.atlantaregional.com/AtlantaProfiles/T04.pdf,4341,3.9,90.4,0.9,21727,22,1,14.7549351
+41,402,"Bush Mountain, Oakland City",35,17,402,135,Oakland City,0,3672,http://documents.atlantaregional.com/AtlantaProfiles/S01.pdf,3672,1.7,95.8,0.2,22857,9,0,11.07848398
+42,403,"Bush Mountain, Oakland City",35,17,402,135,Oakland City,0,3672,http://documents.atlantaregional.com/AtlantaProfiles/S01.pdf,3672,1.7,95.8,0.2,22857,9,0,11.07848398
+43,404,Westview,36,61,404,203,Westview,0,3138,http://documents.atlantaregional.com/AtlantaProfiles/T03.pdf,3138,3.4,93.3,0.2,27815,17,0,10.27299334
+44,405,"Audobon Forest, Audobon Forest West, Chalet Woods, Harland Terrace, Peyton Forest, Westhaven",37,9,405,158,Harland Terrace,0,4945,http://documents.atlantaregional.com/AtlantaProfiles/I03.pdf,4945,1.1,94.7,0,29397,9,0,11.21155795
+45,406,Cascade Avenue/Road,38,21,406,26,Cascade Avenue/Road,0,2307,http://documents.atlantaregional.com/AtlantaProfiles/S03.pdf,2307,1.4,95.6,0.1,29318,4,0,9.233918444
+46,407,"Fairburn Mays, Mays",39,31,407,90,Fairburn Mays,3,4095,http://documents.atlantaregional.com/AtlantaProfiles/H03.pdf,4095,0.7,95.9,0.1,26857,8,0,10.77374716
+47,408,"Fort McPherson, Venetian Hills",40,32,408,112,Venetian Hills,0,4084,http://documents.atlantaregional.com/AtlantaProfiles/S02.pdf,4084,7.1,89.5,0.4,27096,5,0,11.68374374
+48,409,"Adams Park, Laurens Valley, Southwest",41,1,409,217,Southwest,0,6141,http://documents.atlantaregional.com/AtlantaProfiles/R02.pdf,6141,1,95.8,0.3,41234,10,0,10.67642673
+49,410,"Campbellton Road, Fort Valley, Pomona Park",42,19,410,201,Campbellton Road,1,6721,http://documents.atlantaregional.com/AtlantaProfiles/R01.pdf,6721,1.9,95.7,0,17414,12,0,14.89396947
+50,411,Greenbriar,43,34,411,330,Greenbriar,1,3628,http://documents.atlantaregional.com/AtlantaProfiles/R03.pdf,3628,0.6,97.4,0.1,23958,24,0,10.74363405
+51,412,"Ben Hill Terrace, Kings Forest, Old Fairburn Village",44,11,412,47,Kings Forest,0,2719,http://documents.atlantaregional.com/AtlantaProfiles/P04.pdf,2719,1,95.2,0.5,34043,5,0,8.968000975
+52,413,"Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest",45,4,413,19,Arlington Estates,1,3826,http://documents.atlantaregional.com/AtlantaProfiles/P01.pdf,3826,1.2,94.6,0.5,53641,2,0,7.780927844
+53,413,"Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest",45,4,413,19,Arlington Estates,1,3826,http://documents.atlantaregional.com/AtlantaProfiles/P01.pdf,3826,1.2,94.6,0.5,53641,2,0,7.780927844
+54,414,Princeton Lakes,46,52,414,197,Princeton Lakes,0,3670,http://documents.atlantaregional.com/AtlantaProfiles/P02.pdf,3670,3,90,1.4,59199,13,0,7.381939484
+55,501,Home Park,47,37,501,399,Home Park,7,4706,http://documents.atlantaregional.com/AtlantaProfiles/E06.pdf,4706,45.5,17.1,28.9,42133,27,0,17.08606168
+56,502,Midtown,48,46,505,572,Midtown,1,16218,http://documents.atlantaregional.com/AtlantaProfiles/E07.pdf,16218,68.2,15.9,7.5,64324,52,0,42.46065838
+57,503,Midtown,48,46,505,572,Midtown,1,16218,http://documents.atlantaregional.com/AtlantaProfiles/E07.pdf,16218,68.2,15.9,7.5,64324,52,0,42.46065838
+58,504,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+59,505,Midtown,48,46,505,572,Midtown,1,16218,http://documents.atlantaregional.com/AtlantaProfiles/E07.pdf,16218,68.2,15.9,7.5,64324,52,0,42.46065838
+60,506,English Avenue,49,30,506,184,English Avenue,0,3330,http://documents.atlantaregional.com/AtlantaProfiles/L02.pdf,3330,8.7,83.5,1.6,15914,31,0,12.84130343
+61,507,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+62,508,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+63,509,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+64,510,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+65,511,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+66,512,"Castleberry Hill, Downtown",50,22,509,473,Downtown,5,14560,http://documents.atlantaregional.com/AtlantaProfiles/M01.pdf,14560,32.2,53.4,6.8,34956,31,0,32.7517254
+67,601,"Atkins Park, Virginia Highland",51,6,601,320,Virginia Highland,8,8475,http://documents.atlantaregional.com/AtlantaProfiles/F03.pdf,8475,84.1,6.1,2.6,73055,24,0,26.40125634
+68,602,"Inman Park, Poncey-Highland",52,39,602,417,Inman Park,7,6196,http://documents.atlantaregional.com/AtlantaProfiles/N02.pdf,6196,80.2,9.9,2.9,73546,26,0,20.9933796
+69,603,"Old Fourth Ward, Sweet Auburn",53,49,603,458,Old Fourth Ward,10,12326,http://documents.atlantaregional.com/AtlantaProfiles/M02.pdf,12326,32.2,57.2,2.7,38315,22,0,26.61231309
+70,604,"Old Fourth Ward, Sweet Auburn",53,49,603,458,Old Fourth Ward,10,12326,http://documents.atlantaregional.com/AtlantaProfiles/M02.pdf,12326,32.2,57.2,2.7,38315,22,0,26.61231309
+71,605,"Grant Park, Oakland",54,33,605,338,Grant Park,2,6827,http://documents.atlantaregional.com/AtlantaProfiles/W01.pdf,6827,62.4,27.9,2.2,74581,23,0,17.18750767
+72,606,"Cabbagetown, Reynoldstown",55,18,606,154,Reynoldstown,0,3750,http://documents.atlantaregional.com/AtlantaProfiles/N01.pdf,3750,59.1,31,2.3,48287,13,0,17.71680548
+73,607,"Benteen Park, Boulevard Heights, Custer/McDonough/Guice, State Facility, Woodland Hills",56,12,607,87,Custer/McDonough/Guice,0,3305,http://documents.atlantaregional.com/AtlantaProfiles/W02.pdf,3305,31.9,46.4,0.9,44530,6,0,12.48739067
+74,608,"Candler Park, Druid Hills",57,20,608,144,Candler Park,18,4742,http://documents.atlantaregional.com/AtlantaProfiles/N03.pdf,4742,83.1,6.9,3.3,85889,7,0,16.93285488
+75,609,Edgewood,58,29,609,385,Edgewood,0,4072,http://documents.atlantaregional.com/AtlantaProfiles/O03.pdf,4072,31.9,61.1,1.7,37367,11,0,14.38149267
+76,610,Kirkwood,59,41,610,124,Kirkwood,1,5688,http://documents.atlantaregional.com/AtlantaProfiles/O02.pdf,5688,44.6,49.1,1.5,52773,11,0,16.06370806
+77,611,"East Lake, The Villages at East Lake",60,28,611,116,East Lake,17,4046,http://documents.atlantaregional.com/AtlantaProfiles/O01.pdf,4046,27.2,67.7,0.9,41838,12,1,15.54267204
+78,612,East Atlanta,61,27,612,224,East Atlanta,4,5101,http://documents.atlantaregional.com/AtlantaProfiles/W04.pdf,5101,42.1,52.2,1.1,38960,9,0,17.461372
+79,613,Morningside/Lenox Park,21,47,213,44,Morningside/Lenox Park,0,8307,http://documents.atlantaregional.com/AtlantaProfiles/F04.pdf,8307,85.2,5.1,2.4,113073,0,0,16.60142124
+80,614,Midtown,48,46,505,572,Midtown,1,16218,http://documents.atlantaregional.com/AtlantaProfiles/E07.pdf,16218,68.2,15.9,7.5,64324,52,0,42.46065838
